@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="22ac701b-b6ab-4584-9e32-5c55c8f2685c" name="Changes" comment="Added TreeNodeDistances">
+      <change afterPath="$PROJECT_DIR$/../../../c/exam/.idea/exam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lottery-OO/src/Matches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful-JPA/Chapter 5/05_03/Finish/explorecali/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful-JPA/Chapter 5/05_03/Finish/explorecali/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful-JPA/Chapter 5/05_03/Finish/explorecali/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful-JPA/Chapter 5/05_03/Finish/explorecali/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RESTful-JPA/Chapter 5/05_03/Finish/explorecali/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../borgas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javafx/crisis/src/main/java/com/salkabay/dto/MeterDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javafx/crisis/src/main/java/com/salkabay/entity/MeterEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javafx/crisis/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javafx/gasAgencyManagement/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javafx/gasAgencyManagement/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javafx/gasAgencyManagement/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javafx/gasAgencyManagement/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javafx/gasAgencyManagement/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javafx/gasAgencyManagement/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javafx/gasAgencyManagement/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javafx/gasAgencyManagement/asset/.idea/asset.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javafx/gasAgencyManagement/gasAgencyManagement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../movies/.idea/movies.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thursday - CS2001 Exam/iterative/recursive.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thursday - CS2001 Exam/recursive/recursive.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop2/.idea/shop2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/docker-clion-dev" beforeDir="false" afterPath="$PROJECT_DIR$/../../../c/docker-clion-dev" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/forked-daapd/web-src/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../c/forked-daapd/web-src/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH1/01_07/end/client" beforeDir="false" afterPath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH1/01_07/end/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH2/02_02/begin/client" beforeDir="false" afterPath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH2/02_02/begin/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH2/02_02/end/client" beforeDir="false" afterPath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH2/02_02/end/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH2/02_03/begin/client" beforeDir="false" afterPath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH2/02_03/begin/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH2/02_03/end/client" beforeDir="false" afterPath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH2/02_03/end/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH2/02_04/begin/client" beforeDir="false" afterPath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH2/02_04/begin/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH2/02_04/end/client" beforeDir="false" afterPath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH2/02_04/end/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH3/03_01/begin/client" beforeDir="false" afterPath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH3/03_01/begin/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH3/03_01/end/client" beforeDir="false" afterPath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH3/03_01/end/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_01/begin/client" beforeDir="false" afterPath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_01/begin/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_01/end/client" beforeDir="false" afterPath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_01/end/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_02/begin/client" beforeDir="false" afterPath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_02/begin/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_02/end/client" beforeDir="false" afterPath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_02/end/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_03/begin/client" beforeDir="false" afterPath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_03/begin/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_03/end/client" beforeDir="false" afterPath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_03/end/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_04/begin/client" beforeDir="false" afterPath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_04/begin/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_04/end/client" beforeDir="false" afterPath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_04/end/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_05/begin/client" beforeDir="false" afterPath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_05/begin/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_05/end/client" beforeDir="false" afterPath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_05/end/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_06/begin/client" beforeDir="false" afterPath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_06/begin/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_06/end/client" beforeDir="false" afterPath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_06/end/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_07/begin/client" beforeDir="false" afterPath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_07/begin/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_07/end/client" beforeDir="false" afterPath="$PROJECT_DIR$/../../Building_Ful_Stack_Apps_React_Spring/Exercise Files/CH4/04_07/end/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Camunda/camunda-spring-boot-amqp-microservice-cloud" beforeDir="false" afterPath="$PROJECT_DIR$/../../Camunda/camunda-spring-boot-amqp-microservice-cloud" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Camunda/microservice-rmq" beforeDir="false" afterPath="$PROJECT_DIR$/../../Camunda/microservice-rmq" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Camunda/rabbitmq-demo-web" beforeDir="false" afterPath="$PROJECT_DIR$/../../Camunda/rabbitmq-demo-web" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lottery" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lottery" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lottery-OO/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lottery-OO/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lottery-OO/out/artifacts/Lottery_OO_jar/Lottery-OO.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lottery-OO/out/production/Lottery-OO/Draw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lottery-OO/out/production/Lottery-OO/History.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lottery-OO/out/production/Lottery-OO/Lottery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lottery-OO/out/production/Lottery-OO/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lottery-OO/out/production/Lottery-OO/Piece.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lottery-OO/out/production/Lottery-OO/euromillions.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lottery-OO/src/Draw.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lottery-OO/src/Draw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lottery-OO/src/History.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lottery-OO/src/History.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lottery-OO/src/Lottery.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lottery-OO/src/Lottery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lottery-OO/src/euromillions.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lottery-OO/src/euromillions.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RESTful-JPA/Chapter 5/05_03/Finish/explorecali/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RESTful-JPA/Chapter 5/05_03/Finish/explorecali/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RESTful-JPA/Chapter 5/05_03/Finish/explorecali/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RESTful-JPA/Chapter 5/05_03/Finish/explorecali/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RESTful-JPA/Chapter 5/05_03/Finish/explorecali/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RESTful-JPA/Chapter 5/05_03/Finish/explorecali/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RESTful-JPA/Chapter 5/05_03/Finish/explorecali/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RESTful-JPA/Chapter 5/05_03/Finish/explorecali/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RESTful-JPA/Chapter 5/05_03/Finish/explorecali/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RESTful-JPA/Chapter 5/05_03/Finish/explorecali/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RESTful-JPA/Chapter 5/05_03/Finish/explorecali/src/main/java/com/example/ec/ExplorecaliApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../RESTful-JPA/Chapter 5/05_03/Finish/explorecali/src/main/java/com/example/ec/ExplorecaliApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RESTful-JPA/Chapter 5/05_03/Finish/explorecali/src/main/java/com/example/ec/repo/TourRatingRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../RESTful-JPA/Chapter 5/05_03/Finish/explorecali/src/main/java/com/example/ec/repo/TourRatingRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RESTful-JPA/Chapter 5/05_03/Finish/explorecali/src/main/java/com/example/ec/repo/TourRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../RESTful-JPA/Chapter 5/05_03/Finish/explorecali/src/main/java/com/example/ec/repo/TourRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RESTful-JPA/Chapter 5/05_03/Finish/explorecali/src/main/resources/ExploreCalifornia.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../RESTful-JPA/Chapter 5/05_03/Finish/explorecali/src/main/resources/ExploreCalifornia.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RESTful-JPA/Chapter 5/05_03/Finish/explorecali/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../RESTful-JPA/Chapter 5/05_03/Finish/explorecali/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../band-gateway" beforeDir="false" afterPath="$PROJECT_DIR$/../../band-gateway" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cnj/bom" beforeDir="false" afterPath="$PROJECT_DIR$/../../cnj/bom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cnj/bootcamp" beforeDir="false" afterPath="$PROJECT_DIR$/../../cnj/bootcamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cnj/continuous-delivery" beforeDir="false" afterPath="$PROJECT_DIR$/../../cnj/continuous-delivery" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cnj/edge" beforeDir="false" afterPath="$PROJECT_DIR$/../../cnj/edge" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cnj/ee" beforeDir="false" afterPath="$PROJECT_DIR$/../../cnj/ee" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cnj/operations" beforeDir="false" afterPath="$PROJECT_DIR$/../../cnj/operations" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cnj/parent" beforeDir="false" afterPath="$PROJECT_DIR$/../../cnj/parent" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cnj/project-support" beforeDir="false" afterPath="$PROJECT_DIR$/../../cnj/project-support" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cnj/rest" beforeDir="false" afterPath="$PROJECT_DIR$/../../cnj/rest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cnj/routing" beforeDir="false" afterPath="$PROJECT_DIR$/../../cnj/routing" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crm/client" beforeDir="false" afterPath="$PROJECT_DIR$/../../crm/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ibm-cloud/get-started-tomcat" beforeDir="false" afterPath="$PROJECT_DIR$/../../ibm-cloud/get-started-tomcat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../itunes" beforeDir="false" afterPath="$PROJECT_DIR$/../../itunes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mp3agic" beforeDir="false" afterPath="$PROJECT_DIR$/../../mp3agic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS1003-P2" beforeDir="false" afterPath="$PROJECT_DIR$/../CS1003-P2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS1003-P2-1" beforeDir="false" afterPath="$PROJECT_DIR$/../CS1003-P2-1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS1003-P3/CS1003-P33.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS1003-P3/data/IMDB.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../CS1003-P3/data/IMDB.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS1003-P3/src/Cache.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CS1003-P3/src/Cache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS1003-P3/src/Connect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CS1003-P3/src/Connect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS1003-P3/src/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CS1003-P3/src/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS1003-P3/src/InitialiseDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CS1003-P3/src/InitialiseDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS1003-P3/src/PopulateDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CS1003-P3/src/PopulateDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS1003-P3/src/QueryDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CS1003-P3/src/QueryDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS1003-P3/src/data/IMDB.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS1003-P3/src/data/NewActors.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../W03/W03Practical" beforeDir="false" afterPath="$PROJECT_DIR$/../W03/W03Practical" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../W05Practical-Initial" beforeDir="false" afterPath="$PROJECT_DIR$/../W05Practical-Initial" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../W07Practical" beforeDir="false" afterPath="$PROJECT_DIR$/../W07Practical" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-hibernate-datamodeling-tdd-rest" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-hibernate-datamodeling-tdd-rest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../studentdal" beforeDir="false" afterPath="$PROJECT_DIR$/../../studentdal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wknd" beforeDir="false" afterPath="$PROJECT_DIR$/../../wknd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python/Portfolio" beforeDir="false" afterPath="$PROJECT_DIR$/../../../python/Portfolio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python/borgasApp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../python/borgasApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python/mlia" beforeDir="false" afterPath="$PROJECT_DIR$/../../../python/mlia" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python/python-machine-learning-book-2nd-edition" beforeDir="false" afterPath="$PROJECT_DIR$/../../../python/python-machine-learning-book-2nd-edition" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/ReactExamples-master/dynamicroutesandcomponentsdemo/dynamicroutesandcomponentsdemo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/ReactExamples-master/dynamicroutesandcomponentsdemo/dynamicroutesandcomponentsdemo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/dynamic-components-from-json-with-react" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/dynamic-components-from-json-with-react" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch02/02_02/finished/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch02/02_02/finished/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch02/02_02/start/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch02/02_02/start/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch02/02_03/finished/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch02/02_03/finished/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch02/02_04/finished/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch02/02_04/finished/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch03/03_01/start/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch03/03_01/start/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch03/03_03/finished/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch03/03_03/finished/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch03/03_03/start/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch03/03_03/start/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch03/03_04/finished/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch03/03_04/finished/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch03/03_04/start/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch03/03_04/start/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch03/03_05/finished/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch03/03_05/finished/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch03/03_05/start/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch03/03_05/start/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch04/04_01/finished/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch04/04_01/finished/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch04/04_01/start/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch04/04_01/start/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch04/04_02/finished/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch04/04_02/finished/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch04/04_02/start/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch04/04_02/start/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch04/04_03/finished/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch04/04_03/finished/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch04/04_03/start/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch04/04_03/start/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch04/04_04/finished/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch04/04_04/finished/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch04/04_04/start/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch04/04_04/start/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch04/04_05/finished/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch04/04_05/finished/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch04/04_05/start/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch04/04_05/start/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch04/04_06/finished/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch04/04_06/finished/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch04/04_06/start/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch04/04_06/start/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_01/finished/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_01/finished/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_01/start/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_01/start/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_02/finished/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_02/finished/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_02/start/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_02/start/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_03/finished/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_03/finished/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_03/start/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_03/start/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_04/finished/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_04/finished/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_04/start/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_04/start/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_05/finished/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_05/finished/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_05/start/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_05/start/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_06/finished/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_06/finished/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_06/start/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_06/start/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_07/finished/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_07/finished/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_07/start/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_07/start/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_08/finished/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_08/finished/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_08/start/react-is-fun" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/eve/react.js Essential/Ch05/05_08/start/react-is-fun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/hackernews" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/hackernews" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/load-json-react" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/load-json-react" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/react1" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/react1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/reddit-clone" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/reddit-clone" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../react/wieruch/s1" beforeDir="false" afterPath="$PROJECT_DIR$/../../../react/wieruch/s1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ruby/sample_rails_app" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ruby/sample_rails_app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../swift/Fileviewer" beforeDir="false" afterPath="$PROJECT_DIR$/../../../swift/Fileviewer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../swift/Jobra" beforeDir="false" afterPath="$PROJECT_DIR$/../../../swift/Jobra" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../swift/KidzOffline" beforeDir="false" afterPath="$PROJECT_DIR$/../../../swift/KidzOffline" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../swift/Trader/trader" beforeDir="false" afterPath="$PROJECT_DIR$/../../../swift/Trader/trader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../swift/ch8-Bookstore/Bookstore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../swift/ch8-Bookstore/Bookstore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../swift/wifilocker" beforeDir="false" afterPath="$PROJECT_DIR$/../../../swift/wifilocker" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website/salkabay.com.1" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website/salkabay.com.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../website/salska.github.io" beforeDir="false" afterPath="$PROJECT_DIR$/../../../website/salska.github.io" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GRVukrjVMbVwiZFlnuprgm4oaU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "TF_FMT": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "/Users/sal/src/java/oran/TreeNodeDistances",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22ac701b-b6ab-4584-9e32-5c55c8f2685c" name="Changes" comment="" />
+      <created>1666351607543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666351607543</updated>
+      <workItem from="1666351608692" duration="1938000" />
+      <workItem from="1666354393060" duration="284000" />
+      <workItem from="1666354714755" duration="661000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added TreeNodeDistances">
+      <created>1666354748337</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666354748337</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added TreeNodeDistances" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added TreeNodeDistances" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
